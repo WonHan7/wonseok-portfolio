@@ -1,4 +1,4 @@
-**# wonseok-portfolio**
+# wonseok-portfolio
 **Goal: To create a responsive website that accurately represents myself as a developer.**
 
 **To-Do List:**
